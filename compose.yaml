@@ -1,7 +1,7 @@
 networks:
   outside:
   inside:
-    internal: true
+#    internal: true
 
 services:
   # 中间件
